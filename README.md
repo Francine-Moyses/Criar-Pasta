@@ -1,1 +1,1 @@
-# Criar Pasta no repositório com código python
+# Criar Pasta no diretório com código python
